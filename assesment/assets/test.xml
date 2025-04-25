@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45">
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\Pages\BasePage.java">
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\Pages\HockeyTeamPage.java">
+<error line="56" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\Pages\HomePage.java">
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\Pages\OscarMoviePage.java">
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\tests\Listener.java">
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\tests\TestCases.java">
+<error line="18" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="40" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="41" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="55" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="64" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="81" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="85" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="89" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="91" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="100" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="108" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="126" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="130" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="134" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="136" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\Utils\DriverFactory.java">
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\Utils\ExtentManager.java">
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\Utils\ScreenShotUtils.java">
+</file>
+<file name="C:\Users\sarav\Crio Project\saravana2018asd-ME_QA_XSCRAPE_DATA\src\test\java\demo\wrappers\Wrappers.java">
+<error line="23" severity="error" message="USED_WAIT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="69" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="71" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+</checkstyle>
