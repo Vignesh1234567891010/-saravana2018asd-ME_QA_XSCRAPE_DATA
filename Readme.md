@@ -22,6 +22,9 @@ This project involves creating a mini scraper to scrape film and sports informat
     3. Year
     4. Win %
 
+![Screenshot 2025-04-25 170307](https://github.com/user-attachments/assets/193139a1-d0e6-4364-9133-d92869d11933)
+
+
 
 #### TestCase02:
 
@@ -37,6 +40,9 @@ This project involves creating a mini scraper to scrape film and sports informat
     5. Awards
     6. isWinner
 6. Store the file in the output folder in the root directory. Assert using TestNG that the file is present and not empty
+
+![Screenshot 2025-04-25 170436](https://github.com/user-attachments/assets/736d1582-f104-4c5a-b6d3-b789922aaefd)
+
 
 ## Tech Stack
 - **Programming Language:** Java
