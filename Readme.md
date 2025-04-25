@@ -3,6 +3,9 @@
 ## OverView:
 This project involves creating a mini scraper to scrape film and sports information from a given website
 
+![1000049924](https://github.com/user-attachments/assets/4099553d-f352-4610-a4e4-f1ace39ee8b5)
+
+
 
 ## Scope of Work
 
